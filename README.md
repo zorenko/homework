@@ -1,9 +1,9 @@
 # Задачки от Глеба
 
-[TrashCoffee](trashcoffee/trashcoffee.md)<br>
+[TrashCoffee](trashcoffee/readme.md)<br>
 
-[Speaking](public_speaking/public_speaking.md)<br>
+[Speaking](public_speaking/readme.md)<br>
 
-[Guess the Glass](guess_the_glass/guess_the_glass.md)<br>
+[Guess the Glass](guess_the_glass/readme.md)<br>
 
-[Idioms](idioms/idioms.md)<br>
+[Idioms](idioms/readme.md)<br>
