@@ -1,9 +1,9 @@
 # Задачки от Глеба
 
-[TrashCoffee](trashcoffee/readme.md)<br>[Issues](https://github.com/zorenko/homework/issues/4)
+[TrashCoffee](trashcoffee/trashcoffee.md)<br>
 
-[Speaking](public_speaking/student.md)<br>[Issues](https://github.com/zorenko/homework/issues/3)
+[Speaking](public_speaking/public_speaking.md)<br>
 
-[Guess the Glass](guess_the_glass/readme.md)<br>[Issues](https://github.com/zorenko/homework/issues/1)
+[Guess the Glass](guess_the_glass/guess_the_glass.md)<br>
 
-[Idioms](idioms/readme.md)<br>[Issues](https://github.com/zorenko/homework/issues/2)
+[Idioms](idioms/idioms.md)<br>
