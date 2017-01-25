@@ -96,6 +96,7 @@ https://coggle.it/diagram/WF_ZDcfYD4NbeDgu
 Здесь пользователь может пополнять свой счет, смотреть избранные кофейни, книги, кофе.
 
 ![](screens/profile.png) 
+
 ![](screens/favs.png)
 
 ###Карта/список кофеен
@@ -107,8 +108,11 @@ https://coggle.it/diagram/WF_ZDcfYD4NbeDgu
 Здесь можно найти книги, доступные во всех кофейнях
 
 ![](screens/general books' list.png) 
+
 ![](screens/genre.png) 
+
 ![](screens/general books' list - cards list.png) 
+
 ![](screens/general books' list - inline list.png)
 
 ###Страница кофейни
@@ -130,6 +134,7 @@ https://coggle.it/diagram/WF_ZDcfYD4NbeDgu
 Здесь можно забронировать книгу.
 
 ![](screens/a book.png) 
+
 ![](screens/a book at somewhere.png)
 
 ###Оплата кофе
